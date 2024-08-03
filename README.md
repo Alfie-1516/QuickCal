@@ -18,4 +18,4 @@ Driven by my enthusiasm to explore the field of Software Engineering, I made the
 ### Preview 
 
 ![Alt text](https://github.com/Alfie-1516/QuickCal/blob/master/calculator_gif.gif?raw=true "Title")
-![Alt text](https://github.com/Alfie-1516/QuickCal/blob/master/calculator_final.png?raw=true "Title")
+![Alt text](https://github.com/Alfie-1516/QuickCal/blob/master/calculator_final%20-%20Copy%20(Small).png?raw=true "Title")
